@@ -24,7 +24,11 @@ GGCC-SDK 由 GGCC-Studio 出品，包括 GGCC-UI 图形界面库、动画库、�
 
 ## 其他注意事项
 
-- GGCC-SDK 需要小熊猫 C++ 3.1.2871 才能正常使用，请先下载安装小熊猫 C++ 3.1.2871，再使用 GGCC-SDK。下载地址：[小熊猫 C++](http://royqh.net/redpandacpp/download/)
+- 对于 2.4.1.0123 及以上版本，请使用 小熊猫 C++ 3.2 版本
+
+- 对于 2.1.0.0224 及以上版本，请使用 小熊猫 C++ 3.1 版本
+
+- 您可以在此处下载安装：[小熊猫 C++](http://royqh.net/redpandacpp/download/)
 
 ## 鸣谢
 
